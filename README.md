@@ -39,11 +39,8 @@ As dependências principais utilizadas são:
 - Webpack
 - Babel
 
-### Passo a Passo para Configuração
-
-1. **Criação da Estrutura do Projeto:**
-
 ```sh
 npm install
 npm start
-```# woovi-leaky-frontend
+```
+# woovi-leaky-frontend
